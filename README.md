@@ -8,7 +8,7 @@ Twelve lab experiments in classical computer vision, written in Python with Open
 |---|---|---|
 | 01 | [Image processing basics](notebooks/ex01_image_processing_basics.ipynb) | RGB→grayscale (built-in and manual), histograms, histogram equalization, resizing |
 | 02 | [Color models](notebooks/ex02_color_models.ipynb) | RGB↔CMY, RGB↔HSV, channel splitting and merging |
-| 03 | [Image transformations](notebooks/ex03_image_transformations.ipynb) | Arithmetic and geometric transformations |
+| 03 | [Image transformations](notebooks/ex03_image_transformations.ipynb) | Manual geometric transforms: translation, rotation, scaling, shear and reflection |
 | 04 | [Histogram processing](notebooks/ex04_histogram_processing.ipynb) | Contrast stretching, frequency domain (DFT magnitude spectrum) |
 | 05 | [Image restoration & edge detection](notebooks/ex05_image_restoration_edge_detection.ipynb) | Gaussian noise, denoising filters, Sobel operator |
 | 06 | [Canny, LoG & DoG](notebooks/ex06_canny_log_dog.ipynb) | Gaussian blur, gradient magnitude and phase, Canny, Laplacian of Gaussian, Difference of Gaussians |
